@@ -1,0 +1,91 @@
+
+.footerWrapper{
+  width:100%;
+  background-color: #28328C;
+  padding-top: 40px;
+  padding-bottom: 40px; 
+}
+
+.upperSection{
+  display: flex;
+
+}
+
+.leftSide{
+ display: flex;
+}
+
+.rightSide{
+ display: flex;
+}
+
+.footerMenuHeading{
+  font-size: 15px;
+  font-weight: 800;
+}
+
+.footerMenuItem{
+  font-size: 14px;
+  font-weight: 100;
+  line-height: 20px;
+  margin: 0px;
+}
+
+.footerMenuItem:hover{
+  text-decoration: underline;
+}
+
+.footerMenu1{
+  margin-left:130px ;
+  color:#FFFFFF;
+  text-align: left;
+}
+
+.footerMenu2{
+  margin-left:130px ;
+  color: #FFFFFF;
+  text-align: left;
+}
+
+.footerMenu3{
+  margin-left:80px ;
+  color: #FFFFFF;
+  text-align: left;
+}
+
+.footerMenu4{
+  margin-left:150px ;
+  color: #FFFFFF;
+  text-align: left;
+}
+
+.footerMenu5{
+  margin-left:100px ;
+  color: white;
+  text-align: left;
+}
+
+.footerMenu6{
+  margin-left:100px ;
+  color: white;
+  text-align: left;
+}
+
+.midSection{
+  width: 100%;
+}
+
+.footerLogo{
+  margin-top: 50px;
+  margin-right: 100px;
+
+}
+
+.lowerSection{
+  margin-right: 100px;
+  margin-top: 30px;
+  margin-bottom: 40px;
+}
+.lowerSection span{
+  color: #FFFFFF;
+}

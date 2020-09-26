@@ -1,0 +1,421 @@
+img{
+    cursor: pointer;
+}
+
+.searchSection{
+    padding: 20px;
+    display: flex;
+}
+
+.leftSearch{
+    border: 1px solid #B4B4BE;
+    margin-left: 150px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-right: 200px;
+    padding-left: 5px;
+}
+
+.rightSearch{
+    border: 1px solid #B4B4BE;     
+    padding: 20px;
+    padding-top: 8px;
+    padding-bottom: 8px;    
+    padding-right: 240px;
+    padding-left: 5px;
+}
+
+.leftSearch span{
+    color: black;
+    margin: 5px;
+}
+
+.rightSearch input{
+    border:none;
+  
+}
+
+.rightSearch input:focus{
+    border:none;
+    outline: none;
+}
+
+.discountLogo img{
+    height: 40px;
+    margin-left: 200px;
+}
+
+.downloadBanner img{
+    width: 100%;
+    height: 320px;
+    cursor: pointer;
+    margin-left: 0px;
+    max-width: 1600px;
+}
+
+.doctorBanner{
+    display: flex;
+    margin-left: 100px;
+}
+
+.doctorBanner img{
+    width:40%;
+    padding-left: 50px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.appCarousel{
+    background-color: #28328C;
+    width: 100%;
+    padding-left: 90px;
+    padding-top: 40px;
+    padding-bottom:40px ;
+}
+
+.appCarouselHeading{
+    color: white;
+    text-align: left;
+    padding-left: 50px;
+}
+
+.appLinks{
+    display: flex;
+}
+
+.appLinks img{
+    width: 25%;
+    padding-left: 50px;
+}
+
+.upperSection{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.lowerSection{
+    display:flex;
+    margin-bottom: 60px;
+}
+
+.period img{
+    width:53%;
+    padding-right: 20px
+}
+
+.period div{
+    width: 52%;
+    font-size: small;
+    font-weight: 700;
+    padding-left: 40px;
+    margin-bottom:10px;
+}
+
+.acne{
+  margin-left: -20px;
+}
+
+.acne img{
+    width:53%;
+    padding-right: 20px;
+}
+
+.acne div{
+    width: 50%;
+    font-size: small;
+    font-weight: 700;
+    padding-left: 40px;
+    margin-bottom:10px;
+}
+
+.performance{
+    margin-left: -30px;
+}
+
+ .performance img{
+    width:70%;
+    padding-left:50px ;
+ }
+
+ .performance div{
+    width: 80%;
+    font-size: small;
+    font-weight: 700;
+    padding-left: 40px;
+    margin-bottom:10px;
+ }
+
+.cold{
+    margin-left: 35px;
+}
+
+.cold img{
+    width:53%;
+    padding-right: 20px;
+}
+
+.cold div{
+    width: 50%;
+    font-size: small;
+    font-weight: 700;
+    padding-left: 40px;
+    margin-bottom:10px;
+}
+
+.child{
+  margin-left: -40px;
+}
+
+.child img{
+    width:88%;
+    padding-left:50px ;  
+}
+
+.child div{
+    width: 80%;
+    font-size: small;
+    font-weight: 700;
+    padding-left: 40px;
+    margin-bottom:10px;
+}
+
+.anxiety{
+   margin-left: 60px;
+}
+
+.anxiety img{
+  width: 53%;
+  padding-right: 20px;
+}
+
+.anxiety div{
+    width: 50%;
+    font-size: small;
+    font-weight: 700;
+    padding-left: 40px;
+    margin-bottom:10px;
+}
+
+.consult{
+    color: #2AC5F2;
+    font-weight: 700;
+}
+
+.consultSection{
+    width: 80%;
+    margin-left: 150px;
+}
+
+.consultHeading{
+    text-align: left;
+    color: #414146;
+    margin-top: 50px;
+}
+
+.consultHeading div{
+    font-size: small;
+    color: #414146;
+    margin-bottom: 40px;
+    margin-top: -10px;
+}
+
+.btnView{
+ padding: 12px 20px;
+ border: 1px solid #14BEF1;
+ border-radius: 5px;
+ background-color: white;
+ color:#14BEF1 ;
+}
+
+.appointHeading{
+    margin-left: -650px;    
+    color: #414146;
+    margin-top: 50px;
+
+}
+
+.appointHeading div{
+    font-size: small;
+    color: #414146;
+    margin-bottom: 40px;
+    margin-top: -10px;
+    margin-left: -300px;    
+}
+
+.appointmentSection{
+    width: 80%;
+    
+}
+
+.cardSection{
+    display: flex;
+    width: 70%;
+    padding-left: 150px;
+}
+
+.card{
+    width: 80%;
+    margin-left:2%
+}
+.card img{
+    width: 100%;
+    border-radius: 5px;
+  margin-left: 0px;
+}
+
+.cardHeading{
+    text-align: left;
+}
+
+.card div{
+    text-align: left;
+    width: 100%;
+    margin-bottom: 50px;
+}
+
+.articleSection{
+    display: flex;
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+    border-top: 2px solid #DFDFE5;
+    border-bottom: 2px solid #DFDFE5;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin-bottom: 50px;
+}
+
+.articleCard{
+    margin-right:20px;
+}
+
+.articleCard img{
+    width: 280px;
+    border-radius: 5px;
+}
+
+.articleContent h2{
+  text-align: left;
+  color: #414146;
+}
+
+.articleContent div{
+    text-align: left;
+    color: #414146;
+    margin-top: -10px;
+}
+
+.articleContent button{
+    margin-top: 30px;
+    margin-left: -160px;
+    padding:15px 30px;
+    background-color: #14BEF0;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-weight: 700;
+}
+
+.articleDesc{
+    text-align: left;
+    color: #14BEF0;
+}
+
+.articleCard h4{
+    text-align: left;
+    color: #414146;
+}
+
+.articleDoctor{
+    text-align: left;
+    color: #41416F;
+}
+
+.slide1{
+    width:30%
+}
+
+.slide1 div{
+    margin:20px 0px
+}
+
+.slider{
+    margin-left: auto;
+    margin-right: auto  ;
+    margin-bottom: 150px;
+    width: 30%;
+}
+
+
+.imgFooter img{
+    width: 332px;
+    height: 376px;
+}
+
+.footerSection{
+    display: flex;
+    width: 100%;
+    background-color: #F8F8FB;
+    padding-left: 350px;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+.rightFooterSection{
+    width:30%;
+    padding-left:70px
+}
+
+.headingFooterSection{
+    text-align: left;
+}
+
+.submitPhone{
+    display:flex
+}
+
+.phoneNum span{
+    border: 1px solid #414146;
+    box-shadow: none;
+    padding: 10px;
+    
+}
+.phoneNum input{
+    padding: 10px 20px;
+    border: 1px solid #414146;
+    margin-bottom: 30px;
+}
+
+.btnPhone{
+    padding: 0px 20px;
+    height: 40px;
+    background-color: #14BEF0;
+    color: white;
+    font-weight: 700;
+    border:none;
+    border-radius: 5px;
+    margin-left: 10px;
+}
+
+.appLink{
+    font-weight: 800;
+    color:#414146;
+
+}
+
+.btnGoogle{
+    width: 130px;
+    height: 40px;
+    margin-right: 15px;
+}
+
+.btnApple{
+    width: 130px;
+    height: 40px;
+}
+
+.headingFooterSectionDesc{
+    margin-bottom: 30px;
+}
+
