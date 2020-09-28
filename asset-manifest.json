@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/InternTaskPracto/static/css/main.f9187319.chunk.css",
+    "main.js": "/InternTaskPracto/static/js/main.ade67472.chunk.js",
+    "main.js.map": "/InternTaskPracto/static/js/main.ade67472.chunk.js.map",
+    "runtime-main.js": "/InternTaskPracto/static/js/runtime-main.c890801f.js",
+    "runtime-main.js.map": "/InternTaskPracto/static/js/runtime-main.c890801f.js.map",
+    "static/css/2.444f498c.chunk.css": "/InternTaskPracto/static/css/2.444f498c.chunk.css",
+    "static/js/2.ea0d4601.chunk.js": "/InternTaskPracto/static/js/2.ea0d4601.chunk.js",
+    "static/js/2.ea0d4601.chunk.js.map": "/InternTaskPracto/static/js/2.ea0d4601.chunk.js.map",
+    "index.html": "/InternTaskPracto/index.html",
+    "precache-manifest.40815f4ec8694ee95f4236d5f91f7fb8.js": "/InternTaskPracto/precache-manifest.40815f4ec8694ee95f4236d5f91f7fb8.js",
+    "service-worker.js": "/InternTaskPracto/service-worker.js",
+    "static/css/2.444f498c.chunk.css.map": "/InternTaskPracto/static/css/2.444f498c.chunk.css.map",
+    "static/css/main.f9187319.chunk.css.map": "/InternTaskPracto/static/css/main.f9187319.chunk.css.map",
+    "static/js/2.ea0d4601.chunk.js.LICENSE.txt": "/InternTaskPracto/static/js/2.ea0d4601.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/InternTaskPracto/static/media/logo.5d5d9eef.svg",
+    "static/media/slick-theme.css": "/InternTaskPracto/static/media/slick.f97e3bbf.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c890801f.js",
+    "static/css/2.444f498c.chunk.css",
+    "static/js/2.ea0d4601.chunk.js",
+    "static/css/main.f9187319.chunk.css",
+    "static/js/main.ade67472.chunk.js"
+  ]
+}
